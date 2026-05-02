@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 First comment in master branch
 
 second comment from pavan_branch
+=======
+Third comment from midhun branch
+>>>>>>> midhun_branch
